@@ -12,4 +12,4 @@
   <img width=50px height=50px align="center" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 </div><br/>
 
-### Um desenvolvedor Junior viciado em aprender e criar soluções.
+### Um desenvolvedor Junior viciado em aprender e apaixonado pelo no que faz.
